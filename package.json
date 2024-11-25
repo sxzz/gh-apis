@@ -1,6 +1,6 @@
 {
   "name": "gh-apis",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@9.14.2",
   "description": "Private APIs of GitHub.",
   "type": "module",
