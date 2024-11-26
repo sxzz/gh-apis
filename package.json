@@ -49,18 +49,18 @@
     "ky": "^1.7.2"
   },
   "devDependencies": {
-    "@sxzz/eslint-config": "^4.4.1",
+    "@sxzz/eslint-config": "^4.5.0",
     "@sxzz/prettier-config": "^2.0.2",
     "@types/debug": "^4.1.12",
-    "@types/node": "^22.9.3",
+    "@types/node": "^22.10.0",
     "bumpp": "^9.8.1",
     "domhandler": "^5.0.3",
     "eslint": "^9.15.0",
-    "prettier": "^3.3.3",
+    "prettier": "^3.4.1",
     "tsup": "^8.3.5",
     "tsx": "^4.19.2",
     "typescript": "^5.7.2",
-    "vitest": "^2.1.5"
+    "vitest": "^2.1.6"
   },
   "engines": {
     "node": ">=18.12.0"
