@@ -1,7 +1,7 @@
 {
   "name": "gh-apis",
   "version": "0.1.0",
-  "packageManager": "pnpm@9.15.5",
+  "packageManager": "pnpm@10.2.1",
   "description": "Private APIs of GitHub.",
   "type": "module",
   "license": "MIT",
