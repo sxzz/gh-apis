@@ -43,7 +43,7 @@
     "prepublishOnly": "pnpm run build"
   },
   "dependencies": {
-    "@antfu/utils": "^8.1.1",
+    "@antfu/utils": "^9.1.0",
     "cheerio": "^1.0.0",
     "debug": "^4.4.0",
     "ky": "^1.7.5"
