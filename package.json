@@ -46,15 +46,15 @@
     "ky": "^1.8.1"
   },
   "devDependencies": {
-    "@sxzz/eslint-config": "^6.1.1",
+    "@sxzz/eslint-config": "^6.1.2",
     "@sxzz/prettier-config": "^2.2.1",
     "@types/debug": "^4.1.12",
     "@types/node": "^22.14.1",
     "bumpp": "^10.1.0",
     "domhandler": "^5.0.3",
-    "eslint": "^9.24.0",
+    "eslint": "^9.25.0",
     "prettier": "^3.5.3",
-    "tsdown": "^0.6.10",
+    "tsdown": "^0.9.1",
     "tsx": "^4.19.3",
     "typescript": "^5.8.3",
     "vitest": "^3.1.1"
