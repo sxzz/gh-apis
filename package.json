@@ -46,7 +46,7 @@
     "ky": "^1.8.1"
   },
   "devDependencies": {
-    "@sxzz/eslint-config": "^6.2.0",
+    "@sxzz/eslint-config": "^7.0.1",
     "@sxzz/prettier-config": "^2.2.1",
     "@types/debug": "^4.1.12",
     "@types/node": "^22.15.3",
