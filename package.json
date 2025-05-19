@@ -1,7 +1,7 @@
 {
   "name": "gh-apis",
   "version": "0.2.2",
-  "packageManager": "pnpm@10.10.0",
+  "packageManager": "pnpm@10.11.0",
   "description": "Private APIs of GitHub.",
   "type": "module",
   "license": "MIT",
@@ -42,19 +42,19 @@
   "dependencies": {
     "@antfu/utils": "^9.2.0",
     "cheerio": "^1.0.0",
-    "debug": "^4.4.0",
+    "debug": "^4.4.1",
     "ky": "^1.8.1"
   },
   "devDependencies": {
     "@sxzz/eslint-config": "^7.0.1",
     "@sxzz/prettier-config": "^2.2.1",
     "@types/debug": "^4.1.12",
-    "@types/node": "^22.15.17",
-    "bumpp": "^10.1.0",
+    "@types/node": "^22.15.19",
+    "bumpp": "^10.1.1",
     "domhandler": "^5.0.3",
-    "eslint": "^9.26.0",
+    "eslint": "^9.27.0",
     "prettier": "^3.5.3",
-    "tsdown": "^0.11.5",
+    "tsdown": "^0.11.11",
     "tsx": "^4.19.4",
     "typescript": "^5.8.3",
     "vitest": "^3.1.3"
