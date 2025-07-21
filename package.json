@@ -41,15 +41,15 @@
   },
   "dependencies": {
     "@antfu/utils": "^9.2.0",
-    "cheerio": "^1.1.0",
+    "cheerio": "^1.1.1",
     "debug": "^4.4.1",
-    "ky": "^1.8.1"
+    "ky": "^1.8.2"
   },
   "devDependencies": {
-    "@sxzz/eslint-config": "^7.0.5",
+    "@sxzz/eslint-config": "^7.0.6",
     "@sxzz/prettier-config": "^2.2.3",
     "@types/debug": "^4.1.12",
-    "@types/node": "^22.16.3",
+    "@types/node": "^22.16.5",
     "bumpp": "^10.2.0",
     "domhandler": "^5.0.3",
     "eslint": "^9.31.0",
