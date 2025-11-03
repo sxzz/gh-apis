@@ -49,7 +49,7 @@
     "@sxzz/eslint-config": "^7.2.8",
     "@sxzz/prettier-config": "^2.2.4",
     "@types/debug": "^4.1.12",
-    "@types/node": "^22.19.0",
+    "@types/node": "^24.10.0",
     "bumpp": "^10.3.1",
     "domhandler": "^5.0.3",
     "eslint": "^9.39.0",
