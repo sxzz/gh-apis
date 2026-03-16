@@ -50,7 +50,7 @@
     "@sxzz/prettier-config": "^2.2.6",
     "@types/debug": "^4.1.12",
     "@types/node": "^24.10.1",
-    "bumpp": "^10.3.2",
+    "bumpp": "^11.0.0",
     "domhandler": "^5.0.3",
     "eslint": "^9.39.1",
     "prettier": "^3.7.3",
