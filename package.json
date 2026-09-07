@@ -43,7 +43,7 @@
     "@antfu/utils": "^9.3.0",
     "cheerio": "^1.1.2",
     "debug": "^4.4.3",
-    "ky": "^1.14.0"
+    "ky": "^2.0.0"
   },
   "devDependencies": {
     "@sxzz/eslint-config": "^7.4.0",
